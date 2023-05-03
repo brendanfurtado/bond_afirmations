@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "55265820334",
+    "project_id": "agent-affirmations",
+    "storage_bucket": "agent-affirmations.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55265820334:android:99ab54270880e73a7f373f",
+        "android_client_info": {
+          "package_name": "com.example.bond_affirmations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55265820334-ua9vbs9ohs57pjp4fadv3gdr9it2b5op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMDDO8iB1kZq3ZY4dM-dONybtwIxR6YmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55265820334-ua9vbs9ohs57pjp4fadv3gdr9it2b5op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
